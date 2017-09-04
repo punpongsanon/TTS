@@ -1,2 +1,2 @@
 # TTS
-Microsoft Text-to-Speech platform
+Microsoft Text-to-Speech platform (x86 only)
